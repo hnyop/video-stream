@@ -4,7 +4,6 @@ ffmpeg-python
 py-tgcalls
 pyrogram
 youtube-search-python==1.4.9
-git+https://github.com/yt-dlp/yt-dlp@master
 yt-dlp==2021.11.10.1
 git+https://github.com/ytdl-org/youtube-dl@master
 youtube-search
